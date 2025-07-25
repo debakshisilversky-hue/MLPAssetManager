@@ -4,7 +4,6 @@ import Features from "@/components/ui/features";
 import Screenshots from "@/components/ui/screenshots";
 import Testimonials from "@/components/ui/testimonials";
 import UseCases from "@/components/ui/use-cases";
-import TechStack from "@/components/ui/tech-stack";
 import FAQ from "@/components/ui/faq";
 import CTA from "@/components/ui/cta";
 import Footer from "@/components/ui/footer";
@@ -104,7 +103,6 @@ export default function LandingPage() {
       <Screenshots />
       <Testimonials />
       <UseCases />
-      <TechStack />
       <FAQ />
       <CTA />
       <Footer />
