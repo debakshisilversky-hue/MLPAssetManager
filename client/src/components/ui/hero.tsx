@@ -35,20 +35,7 @@ export default function Hero() {
                 Watch Demo
               </Button>
             </div>
-            <div className="flex items-center space-x-6 mt-8 pt-8 border-t metaphoto-bg-primary-350 border-opacity-30">
-              <div className="text-center">
-                <div className="text-2xl font-bold metaphoto-text-primary">50K+</div>
-                <div className="text-sm text-gray-500">Photos Captured</div>
-              </div>
-              <div className="text-center">
-                <div className="text-2xl font-bold metaphoto-text-primary">99.9%</div>
-                <div className="text-sm text-gray-500">Offline Reliability</div>
-              </div>
-              <div className="text-center">
-                <div className="text-2xl font-bold metaphoto-text-primary">2TB</div>
-                <div className="text-sm text-gray-500">Data Processed</div>
-              </div>
-            </div>
+
           </div>
           <div className="relative">
             {/* Mobile phone frame displaying app screenshots */}

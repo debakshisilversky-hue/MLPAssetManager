@@ -7,10 +7,10 @@ export default function TechStack() {
         </svg>
       ),
       title: "Native Mobile Architecture",
-      description: "Built with React Native for optimal performance and native device integration.",
+      description: "Built for optimal performance and seamless integration with your device's camera and GPS.",
       details: [
         "Cross-platform compatibility",
-        "Native camera API integration",
+        "Native camera integration",
         "Optimized battery usage"
       ],
       bgColor: "metaphoto-bg-primary",
@@ -23,9 +23,9 @@ export default function TechStack() {
         </svg>
       ),
       title: "Offline-First Data Layer",
-      description: "Advanced local storage with SQLite and automatic sync capabilities.",
+      description: "Advanced local storage with automatic sync capabilities when you're back online.",
       details: [
-        "Local SQLite database",
+        "Local database storage",
         "Automatic conflict resolution",
         "Incremental sync"
       ],

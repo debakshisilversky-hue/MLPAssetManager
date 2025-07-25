@@ -2,6 +2,7 @@ import Navigation from "@/components/ui/navigation";
 import Hero from "@/components/ui/hero";
 import Features from "@/components/ui/features";
 import Screenshots from "@/components/ui/screenshots";
+import Testimonials from "@/components/ui/testimonials";
 import UseCases from "@/components/ui/use-cases";
 import TechStack from "@/components/ui/tech-stack";
 import FAQ from "@/components/ui/faq";
@@ -101,6 +102,7 @@ export default function LandingPage() {
       </div>
       <Features />
       <Screenshots />
+      <Testimonials />
       <UseCases />
       <TechStack />
       <FAQ />

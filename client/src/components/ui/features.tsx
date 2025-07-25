@@ -55,7 +55,7 @@ export default function Features() {
         </svg>
       ),
       title: "Project Management",
-      description: "Advanced CRUD operations with filtering, search, and project-based organization.",
+      description: "Complete project organization with filtering, search, and easy project tracking.",
       details: [
         "Multi-project support",
         "Advanced filtering & search",
