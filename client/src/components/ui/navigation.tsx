@@ -47,16 +47,22 @@ export default function Navigation() {
               Features
             </button>
             <button 
+              onClick={() => scrollToSection('screenshots')} 
+              className="metaphoto-text-black-02 hover:metaphoto-text-primary transition-colors"
+            >
+              Screenshots
+            </button>
+            <button 
+              onClick={() => scrollToSection('testimonials')} 
+              className="metaphoto-text-black-02 hover:metaphoto-text-primary transition-colors"
+            >
+              Reviews
+            </button>
+            <button 
               onClick={() => scrollToSection('use-cases')} 
               className="metaphoto-text-black-02 hover:metaphoto-text-primary transition-colors"
             >
               Use Cases
-            </button>
-            <button 
-              onClick={() => scrollToSection('tech')} 
-              className="metaphoto-text-black-02 hover:metaphoto-text-primary transition-colors"
-            >
-              Technology
             </button>
             <button 
               onClick={() => scrollToSection('faq')} 
@@ -90,16 +96,22 @@ export default function Navigation() {
                 Features
               </button>
               <button 
+                onClick={() => scrollToSection('screenshots')} 
+                className="block px-3 py-2 text-left w-full metaphoto-text-black-02 hover:metaphoto-text-primary"
+              >
+                Screenshots
+              </button>
+              <button 
+                onClick={() => scrollToSection('testimonials')} 
+                className="block px-3 py-2 text-left w-full metaphoto-text-black-02 hover:metaphoto-text-primary"
+              >
+                Reviews
+              </button>
+              <button 
                 onClick={() => scrollToSection('use-cases')} 
                 className="block px-3 py-2 text-left w-full metaphoto-text-black-02 hover:metaphoto-text-primary"
               >
                 Use Cases
-              </button>
-              <button 
-                onClick={() => scrollToSection('tech')} 
-                className="block px-3 py-2 text-left w-full metaphoto-text-black-02 hover:metaphoto-text-primary"
-              >
-                Technology
               </button>
               <button 
                 onClick={() => scrollToSection('faq')} 
