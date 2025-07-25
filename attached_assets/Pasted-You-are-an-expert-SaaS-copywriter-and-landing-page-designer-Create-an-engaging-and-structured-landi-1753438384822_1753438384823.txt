@@ -1,0 +1,104 @@
+You are an expert SaaS copywriter and landing page designer.
+Create an engaging and structured landing page for a mobile app called Metaphotolog using the materials below. This page is for a technical/professional audience — field teams, auditors, engineers, inspectors — who need offline-first, image-based documentation tools. They care about precision, reliability, and speed.
+The landing page should include the following sections:
+Hero Section: Powerful headline, short subheadline, and call to action. Include a few of the best-suited taglines.
+
+
+Problem & Solution: Explain what problems Metaphotolog solves and how it’s built for real-world usage.
+
+
+Key Features: Use concise feature descriptions in bullet or grid form.
+
+
+Screenshots Section: Introduce screenshot area with captions.
+
+
+Use Cases: Real-world contexts where the app shines (e.g., remote inspections, infrastructure audits, field surveys).
+
+
+Tech Stack or What’s Under the Hood: Brief technical section for credibility.
+
+
+FAQ: List 4–5 FAQs.
+
+
+Call to Action (CTA): Encourage user to sign up, request access, or download the app.
+
+
+App Overview:
+Metaphotolog is a powerful mobile app designed for professionals who need structured, location-aware photo documentation—whether for fieldwork, audits, surveys, or inspections. Built to work entirely offline, it empowers users to capture, organize, and export rich, geotagged photo reports without relying on internet connectivity.
+The app simplifies the process of turning everyday photos into high-utility photologs with metadata, maps, and custom templates—while keeping performance, data control, and usability at its core.
+Taglines (use some as hooks or within the page):
+Offline-first photo engine for structured field documentation.
+
+
+Built for fieldwork: smart capture, geotagging, and PDF export.
+
+
+Media-heavy mobile app with real-time templates and local sync.
+
+
+Custom reporting platform with map-integrated photo workflows.
+
+
+Efficient photo logging for high-volume, low-connectivity scenarios.
+
+
+[and others listed above…]
+
+
+What We Delivered:
+(Include as appropriate in the Features, Tech, or Case Studies sections)
+Project CRUD with advanced filtering
+
+
+Geospatial map with photo pins and capture direction
+
+
+Smart photo capture, ID generation, and metadata tagging
+
+
+Image preview and metadata editing
+
+
+Local image compression for offline usage
+
+
+Photolog templates and theming
+
+
+Offline PDF export with embedded images
+
+
+Template gallery with real-time loading
+
+
+Offline-first architecture
+
+
+Secure backend and subscription logic
+
+
+Theme and Styling
+primary: '#006D77',
+  secondary: '#FFFFFF',
+  black: '#000000',
+  black_02: '#434343',
+  primary350: '#EDF5F5',
+  primary500: '#006D7726',
+  primary600: '#8ec3b8',
+  primary400: '#006D7712',
+  primary450: '#8BF5FF',
+  primary550: '#2FA9B5',
+  primary700: '#C3D7D7',
+  yellow: '#FEC100',
+  red: '#FF0000',
+
+
+Font: Sans-serif, clean and readable (like Inter or Lato)
+
+
+Screenshots
+I’m attaching screenshots. Add them with labels/captions where relevant. Showcase the interactive map view, metadata editor, and photolog export.
+Output format:
+Ensure it's developer/PM friendly, clear, trustworthy, professional — suitable for showcasing on a startup's site or product launch page.
